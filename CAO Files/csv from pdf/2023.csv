@@ -1,0 +1,76 @@
+Category,2023,2022,Difference,% Change
+Total Applications,78025,78012,13,0.0%
+Level 8 Applications,67921,68480,-559,-0.8%
+Levels 7/6 Applications,30290,31467,-1177,-3.7%
+Indicated DARE application,9913,8713,1200,13.8%
+Indicated HEAR application,8624,9247,-623,-6.7%
+
+Isced Narrow Field,Total Mentions,First Preferences,Total Mentions,First Preferences,Total Mentions,First Preferences,% Change,% Change
+(011) Education,22038,4881,22976,4995,-938,-114,-4%,-2%
+(021) Arts,44475,7651,45166,7432,-691,219,-2%,3%
+(022) Humanities (except languages),15947,2670,16630,2699,-683,-29,-4%,-1%
+(023) Languages,4368,729,4246,811,122,-82,3%,-10%
+(028) Interdisciplinary programmes and qualifications involving arts and humanities,388,54,345,43,43,11,12%,26%
+(031) Social and behavioural sciences,31473,5071,34516,5472,-3043,-401,-9%,-7%
+(032) Journalism and information,2511,333,2589,321,-78,12,-3%,4%
+(041) Business and administration,52568,8805,53675,8492,-1107,313,-2%,4%
+(042) Law,16978,2779,16553,2627,425,152,3%,6%
+(051) Biological and related sciences,22425,3136,23514,3251,-1089,-115,-5%,-4%
+(052) Environment,3725,452,4510,532,-785,-80,-17%,-15%
+(053) Physical sciences,9877,1158,9774,1166,103,-8,1%,-1%
+(054) Mathematics and statistics,3626,541,3456,529,170,12,5%,2%
+(058) Interdisciplinary programmes and qualifications involving natural sciences, Mathematics and statistics,5434,977,5878,889,-444,88,-8%,10%
+(061) Information and Communication Technologies (ICTs),24456,4067,23589,3829,867,238,4%,6%
+(071) Engineering and engineering trades,24118,4189,23763,4025,355,164,1%,4%
+(072) Manufacturing and processing,1982,221,2498,267,-516,-46,-21%,-17%
+(073) Architecture and construction,14600,2778,14238,2627,362,151,3%,6%
+(081) Agriculture,1834,408,1903,345,-69,63,-4%,18%
+(084) Veterinary,1852,865,2231,1050,-379,-185,-17%,-18%
+(088) Interdisciplinary programmes and qualifications involving agriculture, forestry and veterinary,1997,516,2074,476,-77,40,-4%,8%
+(091) Health,64200,12087,72035,13021,-7835,-934,-11%,-7%
+(092) Welfare,8404,1617,9219,1687,-815,-70,-9%,-4%
+(101) Personal services,10339,1823,10701,1818,-362,5,-3%,0%
+(102) Hygiene and occupational health services,396,78,417,57,-21,21,-5%,37%
+(104) Transport services,187,35,141,19,46,16,33%,84%
+Total Applications,390198,67921,406637,68480,-16439,-559,-4%,-1%
+
+Specialist Groups,Total,Total Male,Total Female,Full-time,Full-time Male,Full-time Female,Part-time,Part-time Male,Part-time Female
+(001) Primary Education,7915,2259,9444,2543,-1529,-284,-16%,-11%
+(002) Secondary Education,10233,2180,9435,1960,798,220,8%,11%
+(003) Dentistry (including Dental Nursing and Hygiene),1435,455,1530,464,-95,-9,-6%,-2%
+(004) Medicine,14378,3606,16338,4058,-1960,-452,-12%,-11%
+(005) Nursing and midwifery,26539,3908,30840,4363,-4301,-455,-14%,-10%
+(006) Pharmacy (including Pharmacy Technician),2470,532,2621,484,-151,48,-6%,10%
+(007) Art, Design and Media (techniques and production),13313,2843,13252,2783,61,60,0%,2%
+(008) Veterinary Medicine,747,493,939,620,-192,-127,-20%,-20%
+(009) Physiotherapy,3443,844,3557,834,-114,10,-3%,1%
+
+Isced Narrow Field,Total Mentions,First Preferences,Total Mentions,First Preferences,Total Mentions,First Preferences,% Change,% Change
+(011) Education,609,155,1533,485,-924,-330,-60%,-68%
+(021) Arts,8472,2595,9017,2705,-545,-110,-6%,-4%
+(022) Humanities (except languages),560,270,538,231,22,39,4%,17%
+(031) Social and behavioural sciences,427,91,880,191,-453,-100,-51%,-52%
+(032) Journalism and information,324,61,359,70,-35,-9,-10%,-13%
+(041) Business and administration,21105,5619,22822,5864,-1717,-245,-8%,-4%
+(042) Law,832,308,1025,363,-193,-55,-19%,-15%
+(051) Biological and related sciences,10321,2837,12168,3132,-1847,-295,-15%,-9%
+(052) Environment,817,193,1331,255,-514,-62,-39%,-24%
+(053) Physical sciences,4465,1086,4458,1112,7,-26,0%,-2%
+(061) Information and Communication Technologies (ICTs),8815,2081,8950,2012,-135,69,-2%,3%
+(071) Engineering and engineering trades,14887,3719,14672,3459,215,260,1%,8%
+(072) Manufacturing and processing,735,144,504,79,231,65,46%,82%
+(073) Architecture and construction,6860,1698,6690,1631,170,67,3%,4%
+(081) Agriculture,1676,645,1773,619,-97,26,-5%,4%
+(084) Veterinary,2370,876,3117,1060,-747,-184,-24%,-17%
+(088) Interdisciplinary programmes and qualifications involving agriculture, forestry and veterinary,278,90,145,55,133,35,92%,64%
+(091) Health,7375,2591,8685,2772,-1310,-181,-15%,-7%
+(092) Welfare,6576,2538,7109,2503,-533,35,-7%,1%
+(101) Personal services,10208,2551,11157,2733,-949,-182,-9%,-7%
+(102) Hygiene and occupational health services,158,55,163,50,-5,5,-3%,10%
+(104) Transport services,280,87,244,86,36,1,15%,1%
+Total Applications,108150,30290,117340,31467,-9190,-1177,-8%,-4%
+
+Specialist Groups,Total,Total Male,Total Female,Full-time,Full-time Male,Full-time Female,Part-time,Part-time Male,Part-time Female
+(003) Dentistry (including Dental Nursing and Hygiene),2250,847,2497,953,-247,-106,-10%,-11%
+(006) Pharmacy (including Pharmacy Technician),1269,430,1522,463,-253,-33,-17%,-7%
+(007) Art, Design and Media (techniques and production),5209,1572,4902,1403,307,169,6%,12%
